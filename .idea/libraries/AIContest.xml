@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="AIContest">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mapEditor.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AISimpleBot.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AIServer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
